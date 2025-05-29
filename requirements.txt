@@ -4,4 +4,5 @@ seaborn
 dill
 catboost
 scikit-learn
+flask
 -e .
